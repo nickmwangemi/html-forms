@@ -16,3 +16,15 @@ body {
 a {
 	text-decoration: none;
 }
+.top {
+	display: flex;
+	flex-direction: row-reverse;
+	height: 40px;
+	padding: 10px 0;
+	width: 97vw;
+	margin: 0 auto;
+}
+.top p {
+	color: #666;
+	font-size: 10px;
+}
